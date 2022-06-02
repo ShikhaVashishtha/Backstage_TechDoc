@@ -4,6 +4,7 @@ metadata:
   name: Backstage_TechDoc
   annotations:
     github.com/project-slug: ShikhaVashishtha/Backstage_TechDoc
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
