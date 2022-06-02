@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Backstage_TechDoc
+  annotations:
+    github.com/project-slug: ShikhaVashishtha/Backstage_TechDoc
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ShikhaVashishtha
